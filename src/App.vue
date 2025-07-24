@@ -1,5 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import AccountsForm from "@/components/AccountsForm.vue";
+</script>
 
-<template></template>
+<template>
+  <AccountsForm />
+</template>
 
 <style scoped></style>
